@@ -1,0 +1,15 @@
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/bin/Debug/net5.0/Task2.deps.json
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/bin/Debug/net5.0/Task2.runtimeconfig.json
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/bin/Debug/net5.0/Task2.runtimeconfig.dev.json
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/bin/Debug/net5.0/Task2.dll
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/bin/Debug/net5.0/ref/Task2.dll
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/bin/Debug/net5.0/Task2.pdb
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.csprojAssemblyReference.cache
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.AssemblyInfoInputs.cache
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.AssemblyInfo.cs
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.csproj.CoreCompileInputs.cache
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.dll
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/ref/Task2.dll
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.pdb
+/Users/lizagurskaya/RiderProjects/AndersenTrainee/Task2/obj/Debug/net5.0/Task2.genruntimeconfig.cache
