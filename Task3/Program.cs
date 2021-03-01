@@ -10,14 +10,30 @@ namespace Task3
          */
         static void Main(string[] args)
         {
-            int[] array = {1, 3, 34, 12, 6, 7, 8, 7, 68, 9, 68, 679};
+            Console.Write("Введите количество элементов в массиве: ");
 
-            for (int i = 0; i < array.Length; i++)
+            try 
             {
-                if (array[i] % 3 == 0)
+                int elementsCount = int.Parse(Console.ReadLine());
+                int[] array = new int[elementsCount];
+                
+                for (int i = 0; i < array.Length; i++)
                 {
-                    Console.WriteLine(array[i]);
+                    Console.Write($"Введите элемент массива под индексом {i}: ");
+                    array[i] = int.Parse(Console.ReadLine());
                 }
+                
+                for (int i = 0; i < array.Length; i++)
+                {
+                    if (array[i] % 3 == 0)
+                    {
+                        Console.Write($"\nЭлемент массива кратный 3 под индексом {i}: " + array[i]);
+                    }
+                }
+            }
+            catch (Exception){
+            Console.Write("\nДопущена ошибка некоррекнтый ввод количества элементов " +
+                              "массива или самого элемента массива!!!");
             }
         }
     }
